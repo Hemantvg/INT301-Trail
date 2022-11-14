@@ -1,2 +1,8 @@
 This is an simple trail for int301- open source technology.
 need to add css file.
+Hello! Good Morning
+Let's create a detection of objects Today.
+Using COMPUTER VISION i.e., open cv
+!!!!!!!!!!!!!!!!!!!!!!!YO!!!!!!!!!!!!!!!!!!!!!!!!!!
+Compiling python
+$%$%bruh!@!#
